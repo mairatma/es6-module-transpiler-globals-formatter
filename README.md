@@ -3,6 +3,12 @@ es6-module-transpiler-globals-formatter
 
 ES6 Module Transpiler extension to output exported content as globals.
 
+## Install
+
+```bash
+$ npm install --save-dev es6-module-transpiler-globals-formatter
+```
+
 ## Usage
 
 Just set the `formatter` key to an instance of `GlobalFormatter`.
