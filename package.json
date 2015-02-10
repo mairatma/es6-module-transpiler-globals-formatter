@@ -23,6 +23,7 @@
     "globals"
   ],
   "dependencies": {
-    "es6-module-transpiler": "^0.10.0"
+    "es6-module-transpiler": "^0.10.0",
+    "recast": "^0.9.17"
   }
 }
